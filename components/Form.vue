@@ -97,10 +97,3 @@ Nav,
   }
 }
 </script>
-
-<!-- b-form-1.vue -->
-
-<style lang="scss">
-  @import "../../node_modules/bootstrap/scss/bootstrap.scss";
-
-</style>
