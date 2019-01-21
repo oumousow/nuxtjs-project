@@ -4,6 +4,9 @@
   "description": "My swell Nuxt.js project",
   "author": "Oumou",
   "private": true,
+  "engines": {
+    "node": "10.3.0"
+  },
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
