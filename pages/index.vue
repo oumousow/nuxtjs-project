@@ -8,7 +8,7 @@
         Oumou Sow
       </h1>
       <h2 class="subtitle">
-       Binvenue
+       Binvenue dans ma page
       </h2>
       <div class="links">
         <a
